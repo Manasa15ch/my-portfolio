@@ -1,0 +1,31 @@
+:root {
+  /* Dark Theme */
+
+  --bg-color: #0F172A;
+  --card-color: #1E293B;
+  --navbar-color: rgba(15, 23, 42, 0.95);
+
+  --text-color: #F8FAFC;
+  --text-light: #CBD5E1;
+
+  --primary-color: #3B82F6;
+  --hover-color: #2563EB;
+
+  --border-color: rgba(255,255,255,.08);
+}
+
+body.light-theme {
+  /* Light Theme */
+
+  --bg-color: #F8FAFC;
+  --card-color: #FFFFFF;
+  --navbar-color: rgba(255,255,255,.95);
+
+  --text-color: #0F172A;
+  --text-light: #475569;
+
+  --primary-color: #2563EB;
+  --hover-color: #1D4ED8;
+
+  --border-color: #E2E8F0;
+}
